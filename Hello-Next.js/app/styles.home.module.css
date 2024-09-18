@@ -1,0 +1,9 @@
+.heading {
+  text-align: center;
+  color: whitesmoke;
+  background: linear-gradient(90deg, orange, blue, yellow);
+  margin-top: 20vh;
+  font-size: 3rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px gray;
+}
