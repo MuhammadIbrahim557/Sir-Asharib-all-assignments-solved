@@ -2,6 +2,7 @@ import React from "react";
 
 import About from "./components/header/header";
 import Header from "./components/about/about";
+import styles from "../app/styles.home.module.css";
 const Home = () => {
   return (
     <div className="bg-blue-900">
