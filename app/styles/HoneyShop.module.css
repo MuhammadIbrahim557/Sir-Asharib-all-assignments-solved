@@ -1,0 +1,23 @@
+/* styles/HoneyShop.module.css */
+
+.honeyShop {
+    position: relative;
+    width: 100vw; /* Makes it responsive to screen size */
+    max-width: 1920px;
+    height: 5650.09px;
+    background-color: #F7F3F0;
+    margin: 0 auto; /* Center the layout */
+  }
+  
+  .content {
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  #honeyShopTitle {
+    color: #663300; /* Honey-like color */
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
